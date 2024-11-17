@@ -1,4 +1,4 @@
-# ASUS-Tuf-Gaming-B460-PLUS-i310100-OpenCore-Hacintosh-Build.
+# ASUS-Tuf-Gaming-B460-PLUS-i7-10700-OpenCore-Hacintosh-Build.
 ![OpenCore Icon](https://github.com/acidanthera/OpenCorePkg/raw/master/Docs/Logos/OpenCore_with_text_Small.png)
 
 ## Guide Link: [Dortania's](https://dortania.github.io/OpenCore-Install-Guide/)
@@ -8,7 +8,7 @@ OpenCore Version: 0.8.5 (DEBUG) (Monterey supported and Ventura supported)
 ### Specifications:
 | Part        | Specs                                       |
 |-------------|---------------------------------------------|
-|CPU          |Intel® Core™ i3-10100                        |
+|CPU          |Intel® Core™ i7-10700                        |
 |iGPU         |Intel® UHD Graphics 630                      |
 |dGPU	        |Asus-Rog-Strix RX 570 8GB OC GAMING(Disabled)|
 |Audio        |Realtek S1200A codec layout-id: 1            |
