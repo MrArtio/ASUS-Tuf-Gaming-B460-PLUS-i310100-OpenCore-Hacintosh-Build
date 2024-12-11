@@ -25,7 +25,7 @@ OpenCore Version: 0.8.5 (DEBUG) (Monterey supported and Ventura supported)
 | :white_check_mark: | Siri, Appstore, Facetime                              |
 | :x:                | All USB External Ports (3.0 + 2.0 ) including F-Panel |
 | :white_check_mark: | Sound + Mic                                           |
-| :white_check_mark: | HDMI/DP (Audio + Graphics)                               |
+| :white_check_mark: | HDMI/DP (Audio + Graphics)                            |
 | :x:                | DRM Content in Safari (Reason: IGPU only)             |
 | :white_check_mark: | iGPU Stability                                        |
 | :white_check_mark: | Sleep (also with peripherals plugged in)              |
