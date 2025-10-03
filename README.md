@@ -10,12 +10,12 @@ OpenCore Version: 0.8.5 (DEBUG) (Monterey supported and Ventura supported)
 |-------------|------------------------------------------------------|
 |CPU          |Intel® Core™ i7-10700                                 |
 |iGPU         |Intel® UHD Graphics 630                               |
-|dGPU	        |Saplos Radeon RX550                                   |
+|dGPU	        |Saplos Radeon RX550 4GB GDDR5                         |
 |Audio        |Realtek S1200A codec layout-id: 1                     |
 |Ethernet     |Intel® I219-V LAN                                     |
 |WiFi	        |Ubit WiFi 6 (PCI Express AX200)                       |
-|RAM	        |Corsair Vengeance 16 GB (2 X 8 GB), DDR4, 2933Mhz, C16|
-|SSD/Nvme	    |Samsung SSD 980 250GB Media                           |
+|RAM	        |Corsair Vengeance 32 GB (4 X 8 GB), DDR4, 2933Mhz, C16|
+|SSD/Nvme	    |Samsung SSD 980 250GB                                 |
 |Motherboard	|ASUS TUF Gaming B460 Plus                             |
 
 ### Working/Not working:
