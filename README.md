@@ -3,7 +3,7 @@
 
 ## Guide Link: [Dortania's](https://dortania.github.io/OpenCore-Install-Guide/)
 
-OpenCore Version: 0.8.5 (DEBUG) (Monterey supported and Ventura supported)
+OpenCore Version: 1.0.5 (Stable) (Supported from Lion to Sequoia)
 
 ### Specifications:
 | Part        | Specs                                                |
