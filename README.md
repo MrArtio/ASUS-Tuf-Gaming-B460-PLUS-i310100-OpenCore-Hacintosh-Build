@@ -6,17 +6,18 @@
 OpenCore Version: 1.0.5 (Stable) (Supported from Lion to Sequoia)
 
 ### Specifications:
-| Part        | Specs                                                |
-|-------------|------------------------------------------------------|
-|CPU          |Intel® Core™ i7-10700                                 |
-|iGPU         |Intel® UHD Graphics 630                               |
-|dGPU	        |Saplos Radeon RX550 4GB GDDR5                         |
-|Audio        |Realtek S1200A codec layout-id: 1                     |
-|Ethernet     |Intel® I219-V LAN                                     |
-|WiFi	        |Ubit WiFi 6 (PCI Express AX200)                       |
-|RAM	        |Corsair Vengeance 32 GB (4 X 8 GB), DDR4, 2933Mhz, C16|
-|SSD/Nvme	    |Samsung SSD 980 250GB                                 |
-|Motherboard	|ASUS TUF Gaming B460 Plus                             |
+| Part          | Specs                                                |
+|---------------|------------------------------------------------------|
+|CPU            |Intel® Core™ i7-10700                                 |
+|INTEGRATED GPU |Intel® UHD Graphics 630                               |
+|DEDICATED GPU  |Saplos Radeon RX550 4GB GDDR5                         |
+|AUDIO          |Realtek S1200A codec layout-id: 1                     |
+|ETHERNET       |Intel® I219-V LAN                                     |
+|WIFI	          |Ubit WiFi 6 (PCI Express AX200)                       |
+|RAM	          |Corsair Vengeance 32 GB (4 X 8 GB), DDR4, 2933Mhz, C16|
+|NVME	          |Samsung 970 Pro 1TB                                   |
+|SSD	          |SanDisk 480GB                                         |
+|MOTHERBOARD  	|ASUS TUF Gaming B460 Plus                             |
 
 ### Working/Not working:
 
